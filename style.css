@@ -1,0 +1,23 @@
+form{
+    display: block;
+}
+
+#user-name{
+    width: 20%;
+}
+
+#form-message{
+    height: 40%;
+    width: 60%;
+}
+
+form label {
+    display: block;
+    font-size: 18px;
+    margin-bottom: 5px;
+    color: gray;
+    font-family: arial;
+  }
+form button{
+    display: block;
+}
